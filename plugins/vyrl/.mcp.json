@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "vyrl": {
+      "type": "http",
+      "url": "https://vyrl.pro/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${VYRL_MCP_TOKEN}"
+      }
+    }
+  }
+}

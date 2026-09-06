@@ -1,0 +1,17 @@
+{
+  "name": "vyrl",
+  "version": "1.0.0",
+  "description": "Find and edit Vyrl canvases, inspect callable media Flows, run requested workflows and retrieve outputs. Generative runs can consume Vyrl credits.",
+  "author": {
+    "name": "AAC Ventures LLC",
+    "email": "andrew@vyrl.pro"
+  },
+  "homepage": "https://vyrl.pro",
+  "repository": "https://github.com/solarx56/vyrl-claude",
+  "keywords": [
+    "vyrl",
+    "canvas",
+    "mcp",
+    "media"
+  ]
+}

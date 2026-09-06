@@ -1,0 +1,18 @@
+{
+  "name": "vyrl-plugins",
+  "owner": {
+    "name": "AAC Ventures LLC",
+    "email": "andrew@vyrl.pro"
+  },
+  "plugins": [
+    {
+      "name": "vyrl",
+      "source": "./plugins/vyrl",
+      "description": "Work with Vyrl canvases and media Flows.",
+      "version": "1.0.0"
+    }
+  ],
+  "metadata": {
+    "description": "Vyrl Canvas and media workflow tools for Claude Code."
+  }
+}
